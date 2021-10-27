@@ -1,0 +1,17 @@
+{
+  "name": "1---whatsapp-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "neo4j-driver": "^4.3.4",
+    "node-telegram-bot-api": "^0.54.0",
+    "venom-bot": "^3.1.11"
+  }
+}
