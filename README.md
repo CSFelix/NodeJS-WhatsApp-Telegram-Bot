@@ -11,6 +11,7 @@
 ### `⚒️ Tools ⚒️`
 
 * NodeJS version 15.5.1;
+* NPM version 8.1.1;
 
 
 ----
