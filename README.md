@@ -16,6 +16,7 @@
 * Neo4J version 4.1 or above;
 * Neo4J driver version 4.3.4;
 * Express version 4.17.1;
+* Venom Bot version 3.1.11;
 
 
 ----
