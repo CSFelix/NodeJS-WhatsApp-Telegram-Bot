@@ -13,6 +13,7 @@
 * NodeJS version 15.5.1;
 * NPM version 8.1.1;
 * Yarn version 1.22.4;
+* Neo4J version 4.1 or above;
 
 
 ----
