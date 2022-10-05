@@ -17,7 +17,7 @@
 * Neo4J driver version 4.3.4;
 * Express version 4.17.1;
 * Venom Bot version 3.1.11;
-
+* Telegram Bot API version 0.54.0
 
 ----
 ### `⚙️ Run ⚙️`
