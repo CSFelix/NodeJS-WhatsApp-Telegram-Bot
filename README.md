@@ -10,14 +10,6 @@
 ----
 ### `⚒️ Tools ⚒️`
 
-* NodeJS version 15.5.1;
-* NPM version 8.1.1;
-* Yarn version 1.22.4;
-* Neo4J version 4.1 or above;
-* Neo4J driver version 4.3.4;
-* Express version 4.17.1;
-* Venom Bot version 3.1.11;
-* Telegram Bot API version 0.54.0
 
 ----
 ### `⚙️ Run ⚙️`
